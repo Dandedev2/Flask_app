@@ -10,7 +10,12 @@
 
 ## Contributors
 # David Adebayo - BHU/24/04/05/0049
+- Worked on the inventory backend - Upload, Create functions
 # Livingstone David - BHU/24/04/05/0008
+- Worked on the frontend,Login page,inventory dashboard(html,css,javascripts)
 # Ogugua Dickson - BHU/24/04/05/0082
+- Worked on the mysQl database
 # Ibrahim Tobi - BHU/24/04/05/0025
+- Created the php database
 # Bagula Daniel - BHU/24/04/05/0082
+- Worked on the backend(python,json)- Delete function
