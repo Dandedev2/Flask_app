@@ -1,5 +1,8 @@
 # Flask_app
 
+## Enter code through login page ; Username = admin , Password = 1234
+
+
 <img width="1600" height="900" alt="Screenshot 2025-07-25 114447" src="https://github.com/user-attachments/assets/b9fe3d66-ff09-443f-8cc6-015ce8716f0c" />
 
 <img width="1920" height="1078" alt="Login - Biscuit Depot - Google Chrome 7_25_2025 7_26_26 PM" src="https://github.com/user-attachments/assets/9036fe59-e746-4dc5-ae1c-e8c58bef9678" />
